@@ -1,0 +1,14 @@
+#title {
+    font-family: "Courier New", Times, serif;
+
+}
+
+.recipes {
+    width: fit-content;
+    background: #d6cabb;
+    margin: 16px;
+    padding: 8px;
+    padding-left: 24px;
+}
+
+
